@@ -16,6 +16,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=Ramaskandan-sk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ramaskandan-sk&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<div align="center">
+  <img src="https://img.shields.io/github/followers/Ramaskandan-sk?label=Followers&style=flat&color=7c3aed&labelColor=0d0d16&logo=github" />
+  
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
